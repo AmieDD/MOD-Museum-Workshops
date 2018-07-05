@@ -4,4 +4,6 @@ Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University 
 ## Contributors:
 * [Flexo](https://www.flexo.nz/)
 * [Amie Dansby](https://www.amiedd.com)
+* [Andrew Sowa](http://www.andrewsowa.com/) - Custom Rocket PCB Learn to Solder Badge for Workshop 1
+* [OSH Park](https://oshpark.com/shared_projects/u10ZmdAJ)
 
