@@ -11,7 +11,7 @@ Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University 
 * [JD](https://twitter.com/warmasterdook)
 * [MOD.](https://mod.org.au/)
 
-#### Workshop 1 Learn To Solder Things!
+#### [Workshop 1 - Learn To Solder Things!](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%201)
   *
 
 #### Workshop 3 Making Space Junk Props
