@@ -14,15 +14,15 @@ Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University 
 #### [Workshop 1 - Learn To Solder Things!](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%201)
   *
 
-#### Workshop 3 Making Space Junk Props
+#### [Workshop 3 Making Space Junk Props](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%203)
  *
 
-#### Workshop 4 "Let's Make Things Spin!" Robot Space Sidekick
+#### [Workshop 4 "Let's Make Things Spin!" Robot Space Sidekick](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%204)
   *
 
-#### Workshop 5 Resin Casting Props and LEDs
+#### [Workshop 5 Resin Casting Props and LEDs](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%205)
   *
 
-#### Workshop 6 Props, Swords, and Magic!
+#### [Workshop 6 Props, Swords, and Magic!](https://github.com/AmieDD/MOD-Museum-Workshops/tree/master/Workshop%206)
   *
 
