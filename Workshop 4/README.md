@@ -6,3 +6,18 @@ Have you always wanted your very own robot space sidekick to assist you on those
 This workshop is delivered in partnership with MOD., Australia's leading future-focused museum, provoking new ideas at the intersection of science, art, and innovation.
 
 This workshop is supported by Flexo, the world's only flexible brick system.
+
+
+## BOM(Bill of Materials) List
+
+Description | Qty
+------------ | -------------
+10mm LED | 1
+Adafruit Trinket Mini 5v | 1
+Micro Servo Motor | 1
+AAA Battery Holder 2Pin JST | 1
+220 ohm 5% 1/4 Resistor | 1
+AAA Batteries | 3
+JST 2 Pin Connector | 1
+
+
