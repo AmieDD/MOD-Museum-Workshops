@@ -20,4 +20,7 @@ AAA Battery Holder 2Pin JST | 1
 AAA Batteries | 3
 JST 2 Pin Connector | 1
 
+### Breadboard Layout
+![Sidekickbot Breadboard Layout](https://github.com/AmieDD/MOD-Museum-Workshops/blob/master/Workshop%204/Fritzing_Schematics/amiedd_Sidekick_bot_bb.jpg)
+
 
