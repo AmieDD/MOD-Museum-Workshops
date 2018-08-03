@@ -30,9 +30,9 @@ Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University 
   *
 
 
-###Troubleshooting
+#### Troubleshooting
 
-Arduino sketches:
+**Arduino sketches:**
 
 Pins #2 and #7 are not available (they are exclusively for USB)
 The onboard 5V regulator can provide 150mA output, not 800mA out
