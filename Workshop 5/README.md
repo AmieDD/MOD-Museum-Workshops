@@ -6,3 +6,9 @@ Feeling adventurous and creative? Amie DD is looking for people to help make the
 This workshop is delivered in partnership with MOD., Australia's leading future-focused museum, provoking new ideas at the intersection of science, art, and innovation.
 
 (Please note that rubber latex gloves are used in this workshop, so this workshop would not be suitable for anyone with a latex allergy)
+
+## Potions list
+* [Smooth-On 45D](https://amzn.to/2vh0wAh)
+* Mixing Cup
+* Stir Sticks
+* 5mm LEDs
