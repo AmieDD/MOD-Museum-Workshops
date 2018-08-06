@@ -7,8 +7,11 @@ This workshop is delivered in partnership with MOD., Australia's leading future-
 
 (Please note that rubber latex gloves are used in this workshop, so this workshop would not be suitable for anyone with a latex allergy)
 
+![Smooth-On for Projects](https://github.com/AmieDD/MOD-Museum-Workshops/blob/master/Workshop%205/IMG_3686.jpg)
+
 ## Potions list
-* [Smooth-On 45D](https://amzn.to/2vh0wAh)
+* [Smooth-On 45D](https://amzn.to/2vh0wAh) - To pour into the molds
+* [Smooth-On Mold Star 30](https://amzn.to/2OLOcA7) - To Make the Molds
 * Mixing Cup
 * Stir Sticks
 * 5mm LEDs
