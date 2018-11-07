@@ -23,4 +23,6 @@ JST 2 Pin Connector | 1
 ### Breadboard Layout
 ![Sidekickbot Breadboard Layout](https://github.com/AmieDD/MOD-Museum-Workshops/blob/master/Workshop%204/Fritzing_Schematics/amiedd_Sidekick_bot_bb.jpg)
 
+### Arduino Pinouts
+![Arduino Trinket Pin](https://github.com/AmieDD/MOD-Museum-Workshops/blob/master/Workshop%204/Arduino_Pin.png)
 
