@@ -1,4 +1,7 @@
 # Open Source Cosplay Project with AmieDD and Hybrid World Adelaide and MOD Museum 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University of Southern Australia](https://mod.org.au/) is a futuristic museum of discovery, a place to be and be inspired.
 
 ## Ingredients List
@@ -7,6 +10,18 @@ Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University 
 ## Contributors:
 * [Amie Dansby](https://www.amiedd.com)
 * [Flexo](https://www.flexo.nz/) 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.amiedd.com"><img src="https://avatars3.githubusercontent.com/u/7669428?v=4" width="100px;" alt=""/><br /><sub><b>Amie DD</b></sub></a><br /><a href="https://github.com/AmieDD/MOD-Museum-Workshops/commits?author=AmieDD" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 * [Andrew Sowa](http://www.andrewsowa.com/) - Custom Rocket PCB Learn to Solder Badge for Workshop 1
 * [OSH Park](https://oshpark.com/shared_projects/u10ZmdAJ)
 * [Midnight Giant](https://www.thingiverse.com/search?q=Midnight_giant&dwh=605b305acb373bf)
