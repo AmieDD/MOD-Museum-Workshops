@@ -55,5 +55,4 @@ The bootloader on the Pro Trinket use 4KB of FLASH so the maximum sketch size is
 * [OSH Park](https://oshpark.com/shared_projects/u10ZmdAJ)
 * [Midnight Giant](https://www.thingiverse.com/search?q=Midnight_giant&dwh=605b305acb373bf)
 * [Srgnt Ballistic](https://twitter.com/SrgntBallistic) 
-* [JD](https://twitter.com/warmasterdook)
 * [MOD.](https://mod.org.au/)
