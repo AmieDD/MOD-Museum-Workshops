@@ -1,6 +1,6 @@
 # Open Source Cosplay Project with AmieDD and Hybrid World Adelaide and MOD Museum 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Details for AmieDD workshops at Hybrid World and MOD Museum. at the [University of Southern Australia](https://mod.org.au/) is a futuristic museum of discovery, a place to be and be inspired.
 
@@ -41,6 +41,7 @@ The bootloader on the Pro Trinket use 4KB of FLASH so the maximum sketch size is
 <table>
   <tr>
     <td align="center"><a href="http://www.amiedd.com"><img src="https://avatars3.githubusercontent.com/u/7669428?v=4" width="100px;" alt=""/><br /><sub><b>Amie DD</b></sub></a><br /><a href="https://github.com/AmieDD/MOD-Museum-Workshops/commits?author=AmieDD" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/doughsk8er"><img src="https://avatars2.githubusercontent.com/u/7393429?v=4" width="100px;" alt=""/><br /><sub><b>doughsk8er</b></sub></a><br /><a href="https://github.com/AmieDD/MOD-Museum-Workshops/commits?author=doughsk8er" title="Code">💻</a></td>
   </tr>
 </table>
 
